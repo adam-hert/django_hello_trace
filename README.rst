@@ -1,12 +1,13 @@
 helloworld
 ==========
 
-A Django 'hello world' example.
+A Django 'hello world' example with Traceview
 
 For run this example need to install Django
 framework execute the follow command::
 
     $ sudo pip install -r requirements.txt
+(oboe is included in requirements)
 
 And later followed by::
 
@@ -48,4 +49,4 @@ And you can see the hello world example like this :
    :align: center
    :alt: A Django 'Hello World' example
 
-A Django 'Hello World' example
+A Django 'Hello World' example with Trace
