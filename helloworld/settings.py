@@ -2,6 +2,11 @@
 # Django settings for helloworld project.
 
 import os
+import oboe
+oboe.config['tracing_mode'] = 'always'
+
+import oboeware.djangoware
+
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
